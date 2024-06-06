@@ -1,0 +1,21 @@
+{
+    „config“: {
+        „abort“: {
+            „already_configured“: „Účet je již nakonfigurován“,
+            „already_in_progress“: „Konfigurační tok již probíhá“,
+            „authorize_url_timeout“: „Časový limit generování autorizace adresy URL.“,
+            „missing_configuration“: "Komponenta není nakonfigurována. Postupujte prosím podle dokumentace.",
+            „no_url_available“: "Není k dispozici žádná adresa URL. Informace o této chybě naleznete [v části nápovědy]({docs_url}).",
+            „oauth_error“: „Přijaty neplatné údaje tokenu.“
+            „user_rejected_authorize“: "Propojení účtu zamítnuto: {error}"
+        },
+        „create_entry“: {
+            „default“: „Úspěšně ověřeno“
+        },
+        „step“: {
+            „pick_implementation“: {
+                „title“: „Zvolte metodu ověřování“
+            }
+        }
+    }
+}
